@@ -1,0 +1,26 @@
+{
+  "name": "torrent-client",
+  "version": "1.0.0",
+  "description": "torrent clinet",
+  "main": "main.js",
+  "dependencies": {
+    "bencode": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asanchez0527/Torrent-Client.git"
+  },
+  "keywords": [
+    "torrent"
+  ],
+  "author": "Anderson Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asanchez0527/Torrent-Client/issues"
+  },
+  "homepage": "https://github.com/asanchez0527/Torrent-Client#readme"
+}
